@@ -1,5 +1,5 @@
 {
-  "name": "webpack-cli",
+  "name": "webpack-cli-service",
   "version": "0.0.1",
   "description": "webpack-cli for react and vue ",
   "main": "index.js",
